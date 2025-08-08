@@ -25,7 +25,7 @@ Dashboard linking and some interactivity concepts were learned from the **Skillc
 
 ## 📸 Screenshot
 
-![Dashboard Preview]() 
+![Dashboard Preview](Dashboard_Preview.png) 
 
 ## ✅ Outcomes
 
